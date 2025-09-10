@@ -18,10 +18,10 @@ A JavaScript-based interactive dashboard that allows users to add, edit, delete,
 
 ## 🖼 Screenshots
 
-![Dashboard View](1.png)
-![Task Form](2.png)
-![Task List](3.png)
-![Task List](4.png)
+![Dashboard View](1 (2).png)
+![Task Form](2(2).png)
+![Task List](3(2).png)
+![Task List](4(2).png)
 ![Mobile Responsive](5.png)
 
 
